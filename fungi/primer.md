@@ -213,6 +213,8 @@ When they die, each one triggers:
 
 Because all of your creatures — including tokens — die simultaneously, each one creates its own trigger. Those triggers can be stacked so that you return creatures before their own triggers resolve — and once they’ve left the graveyard, they can’t be exiled.
 
+And since you usually have more triggers than creatures in your graveyard, you can bring back everything that died plus more.
+
 In practice, this often means:
 
 - The board dies.
