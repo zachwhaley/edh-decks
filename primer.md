@@ -4,17 +4,17 @@
 
 It is an ecosystem.
 
-At first glance, it looks like a typical Golgari self-mill strategy — cards go to the graveyard, creatures come back, value happens. But this deck takes the Descend mechanic to its logical extreme by committing almost entirely to permanents. If it isn’t a land, creature, artifact, or enchantment... it probably didn’t make the cut.
+At first glance, it looks like a typical Golgari self-mill strategy — cards go to the graveyard, creatures come back, value happens. But this deck takes the Descend mechanic to its logical extreme by committing almost entirely to permanents. If it isn’t a land, creature, artifact, or enchantment… it probably didn’t make the cut.
 
 There is exactly **one** nonpermanent in the deck — and it’s here only because it has dredge.
 
 That choice is intentional.
 
-When your interaction, your ramp, your card advantage, and your threats are all permanents, every piece of your deck feeds the same engine. Removal isn’t just removal. Sacrifice isn’t just utility. It’s all descent.
+When your interaction, your ramp, your card advantage, and your threats are all permanents, every piece of your deck feeds the same mycelial network. Removal isn’t just removal. Sacrifice isn’t just utility. It’s all descent. It’s all nutrient flow.
 
 A large graveyard looks scary. But this deck doesn’t win because the graveyard is big.
 
-It wins because the graveyard is active.
+It wins because the graveyard is alive.
 
 ---
 
@@ -36,18 +36,18 @@ Read that carefully.
 
 It doesn’t care how big your graveyard is.
 
-It cares how often you *used* it.
+It cares how much you *fed* it.
 
 Every fetchland.  
 Every sacrifice.  
 Every mill.  
 Every dredge.
 
-Each one becomes board presence.
+Each one is a pulse through the mycelium.
 
-Even if [[The Mycotyrant]] dies, the ecosystem barely flinches. Recast it and it immediately counts the board you already built. In fact, the act of dying often increases its size — one more permanent (itself) descended.
+Even if [[The Mycotyrant]] dies, the colony barely notices. Recast it and it immediately counts the board you already cultivated. In fact, the act of dying often increases its size — one more permanent (itself) descended into the soil.
 
-The Mycotyrant starts small, but it scales with your habits (NOTE find a different word). And once you are descending consistently, it becomes very difficult to meaningfully shrink.
+The Mycotyrant starts small, but it scales with your cultivation. And once you are descending consistently, it becomes very difficult to meaningfully prune.
 
 ---
 
@@ -55,16 +55,16 @@ The Mycotyrant starts small, but it scales with your habits (NOTE find a differe
 
 ## Early Game — Begin the Rot
 
-The early turns are about subtle growth.
+The early turns are about quiet colonization.
 
-Cast [[The Mycotyrant]] as soon as you can and begin descending every turn. Even two or three triggers per turn will snowball (NOTE find a more thematic word). The board presence builds slowly at first — just a few Fungi each turn.
+Cast [[The Mycotyrant]] as soon as you can and begin descending every turn. Even two or three triggers per turn will begin to spore outward. The board presence builds slowly at first — just a few Fungi each end step.
 
-You want permanents entering the graveyard immediately — fetchlands, sacrifice outlets, self-mill, discard. Good early examples include:
+You want permanents entering the graveyard immediately — fetchlands, sacrifices, self-mill, discard. Good early examples include:
 
-- [[Ash Barrens]] - Cycling descends
-- [[Evolving Wilds]] - Sacrificing descends
-- [[Broodheart Engine]] - Surveil descends
-- [[Millikin]] - Mill descends
+- [[Ash Barrens]] — Cycling descends
+- [[Evolving Wilds]] — Sacrificing descends
+- [[Broodheart Engine]] — Surveil descends
+- [[Millikin]] — Mill descends
 
 None of these look explosive.
 
@@ -72,11 +72,11 @@ That’s the point.
 
 A few cards in the graveyard rarely scare anyone. A couple 1/1 Fungi look harmless.
 
-But you are not trying to spike the table.
+But you are not trying to shock the table.
 
-You are trying to normalize the growth.
+You are establishing a growth pattern.
 
-Once that rhythm is established, the rest of the game becomes arithmetic (NOTE find better word).
+Once the colony is rooted, the rest of the game becomes inevitability through accumulation. Not big turns — steady expansion.
 
 ---
 
@@ -84,122 +84,128 @@ Once that rhythm is established, the rest of the game becomes arithmetic (NOTE f
 
 By now, your graveyard is stocked.
 
-This is where the graveyard shifts from a "pile" to "value".
+This is where it stops looking like a pile and starts functioning like rich soil.
 
-Recursion engines like [[Journey to Eternity // Atzal, Cave of Eternity]], [[Meren of Clan Nel Toth]], and [[Deadbridge Chant]] ensure that milling isn’t chaotic.
+Recursion engines like [[Kagha, Shadow Archdruid]], [[Meren of Clan Nel Toth]], and [[Deadbridge Chant]] ensure that milling isn’t chaotic.
 
-It’s recyclable.
+It’s cyclical.
 
-You don’t care *which* permanent went to the graveyard — only that enough of them did. The deck is built so that almost anything coming back is productive.
+You don’t care *which* permanent went to the graveyard — only that enough organic matter accumulated. The deck is built so that almost anything coming back is productive.
 
-Lands pile up naturally, turning [[Conduit of Worlds]], [[Hedge Shredder]], and [[World Shaper]] into explosive ramp tools. A mid-game [[World Shaper]] death doesn’t just recover lands. It accelerates the entire ecosystem.
+Lands pile up naturally, turning [[Conduit of Worlds]], [[Hedge Shredder]], and [[World Shaper]] into explosive ramp tools. A mid-game [[World Shaper]] death doesn’t just recover lands. It triggers a surge of growth across the entire board.
+
+Opponents often look at the graveyard and see randomness.
+
+What they miss is density.
+
+What they miss is redundancy.
+
+What they miss is that every board wipe only increases the nutrient layer.
 
 ---
 
-## End Game — Relentless Pressure (NOTE needs to be more thematic)
+## Late Game — Full Bloom
 
-The endgame doesn’t arrive suddenly.
+The late game doesn’t explode.
 
-It spreads.
+It overgrows.
 
 ### Fungal Voltron
 
-Sometimes [[The Mycotyrant]] is simply enormous. With trample and a battlefield full of Fungi, commander damage becomes a very real threat.
+Sometimes [[The Mycotyrant]] becomes impossibly large. With trample and a battlefield full of Fungi, commander damage becomes difficult to prevent.
 
-Graveyard-scaled threats like [[Sewer Nemesis]], [[Splinterfright]], and [[Old Stickfingers]] reinforce this pressure. Combat becomes less about surprise and more about inevitability.
+Graveyard-scaled threats like [[Sewer Nemesis]], [[Splinterfright]], and [[Old Stickfingers]] reinforce this pressure. Combat stops being about surprise and starts being about suffocation.
 
 ### Death as Fuel
 
-Alternatively, your Fungi become fuel.
+Alternatively, your Fungi become compost.
 
-With [[Syr Konrad, the Grim]], [[Dreadhound]], or [[Funeral Room]] on the battlefield, sacrificing creatures turns incremental board presence into life drain.
+With [[Syr Konrad, the Grim]], [[Dreadhound]], or [[Funeral Room]] on the battlefield, sacrificing creatures converts incremental board presence into life drain.
 
-[[Skullclamp]], [[Vampiric Rites]], and [[Nemata, Primeval Warden]] convert bodies into cards, mana, and inevitability.
+[[Skullclamp]], [[Vampiric Rites]], and [[Nemata, Primeval Warden]] transform bodies into cards, mana, and continued spread.
 
-Board wipes begin to look less like threats and more like payoffs.
+Board wipes begin to resemble seasonal die-offs — dramatic, but temporary. The mold returns thicker.
 
-Opponents are forced into awkward choices:
+One particularly brutal sequence pairs [[Dreadhound]] with [[Massacre Girl]]. The cascading death triggers can empty life totals without a single combat step.
 
-- Kill your board and take damage?
-- Leave it alone and let it grow?
+### Bio Overrun
 
-Either choice benefits you.
+Yes, [[Craterhoof Behemoth]] can end a game immediately.  
+Yes, [[Awakening Hall]] can refill a battlefield overnight.
 
-One particularly brutal sequence pairs [[Dreadhound]] with [[Massacre Girl]]. The chain reaction of death triggers can end the game without ever entering combat.
+But those are compounders.
 
-### Closing Without Drama (NOTE needs better words)
-
-And sometimes, you don’t need subtlety.
-
-[[Craterhoof Behemoth]] turns spores into a stampede.  
-[[Awakening Hall]] refills the battlefield in a single swing.  
-
-But those often just let you "win more".
-
-Most games end because opponents ran out of clean answers long before you ran out of material.
+Most games end because opponents exhaust their answers long before you exhaust your biomass.
 
 ---
 
 # Strategies
 
-## Dredge
+## Dredge — Feeding the Colony
 
 Dredge isn’t just recursion here.
 
-It’s velocity.
+It’s propagation.
 
-Because nearly every card in the deck is a permanent, dredging transforms draws into multiple descents. Each dredge is functionally:
+Because nearly every card in the deck is a permanent, dredging transforms card draws into multiple descents. Each dredge represents:
 
-- More graveyard resources
+- More organic matter in the graveyard
 - More end step Fungi
-- A larger commander
+- A larger [[The Mycotyrant]]
 
-You aren’t digging for a combo piece.
+You aren’t digging for a combo.
 
-You’re increasing pressure while stockpiling resilience.
+You’re thickening the mycelium.
 
-Always check your graveyard before you draw. Sometimes the correct line isn’t more cards in hand — it’s more permanents in motion.
+Always check your graveyard before you draw. Sometimes the correct line isn’t another card in hand — it’s another layer of growth beneath the surface.
+
+---
 
 ## Combat and the Nature of Fungi
 
 Your Fungus tokens cannot block.
 
-That is not a drawback.
+That is not a weakness.
 
-It is design.
+It is evolutionary design.
 
-They exist to attack, to be sacrificed, or to die profitably.
+They exist to attack, to be sacrificed, or to decay productively.
 
-Sometimes the correct play is to swing with The Mycotyrant and all your Fungi.
+Sometimes the correct play is to swing with [[The Mycotyrant]] and every Fungus you control.
 
-Opponents are often forced into uncomfortable blocks:
+Opponents face uncomfortable decisions:
 
-- Stop the trampling [[The Mycotyrant]]?
+- Block the trampling commander?
 - Or absorb a wave of small attackers?
 
-Either choice advances your position.
+If they block the Fungi, your drain pieces suck their life.
+If they take the damage, life totals shrink anyway.
 
-And assuming you've been descending, The Mycotyrant will repopulate many Fungi you lost in combat.
+And assuming you’ve been descending, [[The Mycotyrant]] will repopulate much of what was lost at the next end step.
+
+You are not preserving spores.
+
+You are releasing them.
 
 ---
 
-## The Engine Room (NOTE needs better name)
+## The Mycelial Network
 
 This deck operates mostly at sorcery speed.
 
 That constraint is intentional.
 
-Permanent-based interaction means your removal, recursion, and pressure all contribute to descend. You are rarely holding up reactive instants. You are committing to board presence that continues working even after removal.
+Permanent-based interaction ensures that your removal, recursion, and pressure all contribute to descent. You are rarely holding up reactive instants. You are embedding influence into the battlefield itself.
 
 You rarely react.
 
-You advance.
+You spread.
 
-## [[Illicit Masquerade]]
+## [[Illicit Masquerade]] — The Anti-Boardwipe
 
 Board wipes are supposed to reset creature decks.
 
-This card turns them into compost.
+This card turns them into mulch.
 
 With Flash, [[Illicit Masquerade]] lets you respond to a wipe and put an imposter counter on each creature you control.
 
@@ -207,21 +213,17 @@ When they die, each one triggers:
 
 > “Exile it. Return up to one other target creature card from your graveyard to the battlefield.”
 
-At first glance, it looks like all of your creatures are just going to get exiled, right?
-
-Nope.
-
-Because all of your creatures — including tokens — die simultaneously, each one creates its own trigger. Those triggers can be stacked so that you return creatures from your graveyard before their own triggers resolve.
+Because all of your creatures — including tokens — die simultaneously, each one creates its own trigger. Those triggers can be stacked so that you return creatures from your graveyard before their own triggers resolve, making them illegal targets to exile.
 
 In practice, this often means:
 
 - The board dies.
-- Your graveyard empties onto the battlefield.
-- Your ecosystem continues.
+- Your graveyard blooms onto the battlefield.
+- The colony continues uninterrupted.
 
 Opponents believe they cleared the infestation.
 
-In reality, they’ve fed it.
+In reality, they enriched it.
 
 ---
 
@@ -231,17 +233,22 @@ The Fungi is a deck about resilience.
 
 It does not rely on a single permanent.  
 It does not rely on a single line.  
-It does not rely on surprise.
+It does not rely on spectacle.
 
-It relies on repetition.
+It relies on recurrence.
 
-Every permanent in the graveyard is potential energy.  
-Every death advances the system.  
+Every permanent in the graveyard is latent growth.  
+Every death thickens the mold.  
+Every board wipe deepens the soil.
 
-What begins as a few harmless 1/1 Fungi becomes a swelling ecosystem that is difficult to disrupt.
+What begins as a few harmless 1/1 Fungi becomes an entrenched ecosystem that is remarkably difficult to sterilize.
 
 This is not Golgari as apocalypse.
 
-It is Golgari as ecology.
+It is Golgari as mycosis.
 
-If you enjoy engines over explosives, attrition over flash, and the quiet satisfaction of watching your board grow while your opponents debate whether they should have stopped you three turns ago — then welcome to the infestation.
+Slow.  
+Persistent.  
+Unavoidable.
+
+Welcome to the colony.
