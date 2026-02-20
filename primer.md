@@ -72,8 +72,6 @@ That’s the point.
 
 A few cards in the graveyard rarely scare anyone. A couple 1/1 Fungi look harmless.
 
-But you are not trying to shock the table.
-
 You are establishing a growth pattern.
 
 Once the colony is rooted, the rest of the game becomes inevitability through accumulation. Not big turns — steady expansion.
@@ -213,7 +211,7 @@ When they die, each one triggers:
 
 > “Exile it. Return up to one other target creature card from your graveyard to the battlefield.”
 
-Because all of your creatures — including tokens — die simultaneously, each one creates its own trigger. Those triggers can be stacked so that you return creatures from your graveyard before their own triggers resolve, making them illegal targets to exile.
+Because all of your creatures — including tokens — die simultaneously, each one creates its own trigger. Those triggers can be stacked so that you return creatures before their own triggers resolve — and once they’ve left the graveyard, they can’t be exiled.
 
 In practice, this often means:
 
