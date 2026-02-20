@@ -62,17 +62,18 @@ Always check your graveyard before drawing.
 
 ## Early Game — Start the Rot
 
-The early turns are about subtle growth.
+The early turns are about quiet growth.
 
-You want permanents entering the graveyard as soon as possible — fetchlands, sacrifice outlets, self-mill, discard, anything that begins the descent.
+Cast [[The Mycotyrant]] as soon as you can and begin descending every turn. Even two or three triggers per turn will snowball. The board presence builds slowly at first — just a few Fungi at end step.
 
-You don’t look threatening yet. A few cards in the graveyard rarely scare anyone.
+You want permanents entering the graveyard immediately — fetchlands, sacrifice outlets, self-mill, discard, anything that begins the descent.  Some good early examples are: [[Evolving Wilds]], [[Ash Barrens]], [[Broodheart Engine]], [[Millikin]], and [[Sakura-Tribe Elder]].
 
-That’s fine.
+You don’t look threatening yet.
+A few cards in a graveyard rarely scare anyone.
 
-Cast [[The Mycotyrant]] as soon as it’s safe and begin descending every turn. Even two or three triggers per turn will snowball quickly. The board presence builds quietly at first — just a few Fungi here and there.
+That’s intentional.
 
-The table often doesn’t react until it’s too late.
+The table often doesn’t react until the numbers stop being small.
 
 ## Mid Game — Growth and Recycling
 
@@ -80,9 +81,9 @@ By now, your graveyard is stocked.
 
 This is where the deck shifts from “value” to “inevitability.”
 
-Recursion engines like [[Journey to Eternity // Atzal, Cave of Eternity]], [[Meren of Clan Nel Toth]], and [[Deadbridge Chant]] ensure that nothing truly stays dead. Milling stops feeling random and starts feeling curated.
+Recursion engines like [[Journey to Eternity // Atzal, Cave of Eternity]], [[Meren of Clan Nel Toth]], and [[Deadbridge Chant]] ensure that nothing truly stays dead. Milling stops feeling random and starts feeling curated. (NOTE: I don't like this line.  Curated how?  This isn't surveil, it's still just random things going to the graveyard.  There should be a better word here.)
 
-Lands will inevitably pile up in the graveyard as well — which turns cards like [[Conduit of Worlds]], [[Hedge Shredder]], and [[World Shaper]] into explosive ramp tools. A mid-game World Shaper death can feel like casting a one-sided Genesis Wave for lands.
+Lands will inevitably pile up in the graveyard as well — which turns cards like [[Conduit of Worlds]], [[Hedge Shredder]], and [[World Shaper]] into explosive ramp tools. A mid-game World Shaper death can explode your mana base, fueling so much more growth.
 
 Board wipes begin to look less like threats and more like events.
 
@@ -121,7 +122,7 @@ And sometimes, you don’t need subtlety.
 
 If the table has allowed you to keep a graveyard and a board, the game will end decisively.
 
-## Playing the Puzzle
+## Playing the Puzzle (NOTE: This section needs a thematical name)
 
 This deck plays almost entirely at sorcery speed.
 
@@ -138,7 +139,7 @@ You advance.
 
 The deck rewards patience and sequencing. It thrives when the table underestimates it — when your graveyard looks messy instead of lethal.
 
-## Card Highlight
+## Card Highlight (NOTE: Maybe this should be a subsection of playing the puzzle and renamed to strategy?)
 
 ### [[Illicit Masquerade]]
 
@@ -156,13 +157,21 @@ At first glance, it looks like all of your creatures are just going to get exile
 
 Nope.
 
-Each creature — including your Fungus tokens — creates its own trigger. Those triggers can be stacked so that you return creatures from your graveyard before their own triggers resolve.
+Each creature enters the graveyard at the same time, and each creature — including your Fungus tokens — creates its own trigger. Those triggers can be stacked so that you return creatures from your graveyard before their own triggers resolve.
 
-Since you usually have more triggers than creatures in your graveyard, you can bring back everything that died… and often more.
+Since you usually have more triggers than creatures in your graveyard, you can bring back everything that died... and often more.
 
 The table thinks they’ve cleared the infestation.
 
 In reality, they’ve fed it.
+
+### Fungi can't block
+
+NOTE
+
+I want a section here about how the Fungi tokens cannot block and so sometimes you should attack with them even if they are going to die from blocks.  The
+point is you either have more coming at your end step, them dying triggers drain cards, or with enough Fungi the opponents choose between blocking The
+Mycotyrant or the 10 Fungi, either way they are taking lots of damage.
 
 ---
 
