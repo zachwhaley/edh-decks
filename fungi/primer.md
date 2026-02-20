@@ -34,8 +34,7 @@ At the end of your turn, it creates X 1/1 black Fungus creature tokens that can�
 
 Read that carefully.
 
-It doesn’t care how big your graveyard is.
-
+It doesn’t care how big your graveyard is.  
 It cares how much you *fed* it.
 
 Every fetchland.  
@@ -66,14 +65,10 @@ You want permanents entering the graveyard immediately — fetchlands, sacrifice
 - [[Broodheart Engine]] — Surveil descends
 - [[Millikin]] — Mill descends
 
-None of these look explosive.
-
+None of these look explosive.  
 That’s the point.
 
-A few cards in the graveyard rarely scare anyone. A couple 1/1 Fungi look harmless.
-
-You are establishing a growth pattern.
-
+You are establishing a growth pattern.  
 Once the colony is rooted, the rest of the game becomes inevitability through accumulation. Not big turns — steady expansion.
 
 ---
@@ -94,11 +89,9 @@ Lands pile up naturally, turning [[Conduit of Worlds]], [[Hedge Shredder]], and 
 
 Opponents often look at the graveyard and see randomness.
 
-What they miss is density.
-
-What they miss is redundancy.
-
-What they miss is that every board wipe only increases the nutrient layer.
+What they miss is density.  
+What they miss is redundancy.  
+What they miss is that every board wipe only increases the nutrient layer.  
 
 ---
 
@@ -128,8 +121,8 @@ One particularly brutal sequence pairs [[Dreadhound]] with [[Massacre Girl]]. Th
 
 ### Bio Overrun
 
-Yes, [[Craterhoof Behemoth]] can end a game immediately.  
-Yes, [[Awakening Hall]] can refill a battlefield overnight.
+[[Craterhoof Behemoth]] can end a game immediately.  
+[[Awakening Hall]] can refill a battlefield overnight.
 
 But those are compounders.
 
@@ -151,8 +144,7 @@ Because nearly every card in the deck is a permanent, dredging transforms card d
 - More end step Fungi
 - A larger [[The Mycotyrant]]
 
-You aren’t digging for a combo.
-
+You aren’t digging for a combo.  
 You’re thickening the mycelium.
 
 Always check your graveyard before you draw. Sometimes the correct line isn’t another card in hand — it’s another layer of growth beneath the surface.
@@ -163,8 +155,7 @@ Always check your graveyard before you draw. Sometimes the correct line isn’t 
 
 Your Fungus tokens cannot block.
 
-That is not a weakness.
-
+That is not a weakness.  
 It is evolutionary design.
 
 They exist to attack, to be sacrificed, or to decay productively.
@@ -173,16 +164,14 @@ Sometimes the correct play is to swing with [[The Mycotyrant]] and every Fungus 
 
 Opponents face uncomfortable decisions:
 
-- Block the trampling commander?
-- Or absorb a wave of small attackers?
+- Full block the trampling commander and absorb a wave of small attackers?
+- Or block the Fungi and take a big hit of commander damage?
 
-If they block the Fungi, your drain pieces suck their life.
-If they take the damage, life totals shrink anyway.
+If they block the commander, it could come back stronger. 
+If they block the Fungi, your drain pieces might suck their life anyway.  
+And with your constant descending, [[The Mycotyrant]] could repopulate much of what was lost at the next end step.
 
-And assuming you’ve been descending, [[The Mycotyrant]] will repopulate much of what was lost at the next end step.
-
-You are not preserving spores.
-
+You are not preserving spores.  
 You are releasing them.
 
 ---
@@ -193,10 +182,9 @@ This deck operates mostly at sorcery speed.
 
 That constraint is intentional.
 
-Permanent-based interaction ensures that your removal, recursion, and pressure all contribute to descent. You are rarely holding up reactive instants. You are embedding influence into the battlefield itself.
+Permanent-based interaction ensures that your removal, recursion, and pressure all contribute to descend. You are rarely holding up reactive instants. You are embedding influence into the battlefield itself.
 
-You rarely react.
-
+You rarely react.  
 You spread.
 
 ## [[Illicit Masquerade]] — The Anti-Boardwipe
@@ -243,8 +231,7 @@ Every board wipe deepens the soil.
 
 What begins as a few harmless 1/1 Fungi becomes an entrenched ecosystem that is remarkably difficult to sterilize.
 
-This is not Golgari as apocalypse.
-
+This is not Golgari as apocalypse.  
 It is Golgari as mycosis.
 
 Slow.  
