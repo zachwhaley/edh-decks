@@ -35,6 +35,27 @@ Then Y'shtola's if clause triggers giving you an additional end step.  During th
 
 **Result:** Two reanimated creatures, but only one of them keeps the finality counter!
 
+## Additions
+
+New cards I've introduced to the deck since its initial posting.
+
+- [[Spider-Man Noir]] — **Voltron enabler.**  
+  *"Wherever I go the wind follows, and the wind smells like rain."* When Mirko attacks alone, Spider-Man Noir gives them a +1/+1 counter and then triggers Mirko's surveil ability: *surveil X, where X is the number of counters on Mirko.*  That means each attack both **grows Mirko and massively fuels the graveyard**. Mirko can easily reach 10+ counters, turning every swing into a huge surveil.
+
+- [[Twilight Diviner]] — **Reanimation value engine.**  
+  This Elf Cleric surveils when it enters, which is already helpful setup. But the real power is that whenever a creature you control **enters from a graveyard**, you create a token copy of one of them (once each turn).  In practice, this means every Mirko reanimation becomes **two creatures instead of one**, which quickly snowballs into overwhelming value.
+
+### Experiments
+
+These cards I'm experimenting with.
+
+- [[Dawnhand Dissident]] — **Finality counter removal.**  
+  The tap ability with *Blight 1* lets it surveil, which helps fill the graveyard, though the -1/-1 counter is a bit awkward.
+
+  The real reason to test it is its third ability, which allows you to cast a creature exiled with it by paying its mana cost **and removing three counters from among creatures you control**. In this deck that can mean removing **three finality counters** in one shot, letting those creatures die normally and be reanimated again.
+
+  The downside is that the setup is a little messy: the ability requires *Blight 2* and exiling creatures from graveyards, which isn't always what a reanimator deck wants to do. Still, the potential to clear multiple finality counters at once is interesting enough to keep it for a trial period.
+
 ---
 
 # The Gameplan
@@ -67,7 +88,7 @@ To get repeated value from your threats, you’ll need to remove their finality 
 
 You have two ways to "unfinalize" creatures:
 
-- **Counter-removal tools** like [[Nesting Grounds]], [[Power Conduit]], and [[Hexavus]]
+- **Counter-removal tools** like [[Nesting Grounds]], [[Power Conduit]], and [[Hexavus]]  
 - **Flicker effects** like [[Y'shtola Rhul]], [[Identity Thief]], and [[Gossip's Talent]]
 
 Use these to remove finality counters from your strongest reanimated creatures so they can continue looping in and out of the grave.
