@@ -47,7 +47,7 @@ Surveil aggressively. Unless it’s a land you need immediately, send it to the 
 
 Cast Mirko as soon as possible and surveil every turn if you can. **Don't forget their end step trigger**—it’s a *may* ability and easy to miss. Start attacking with them right away. Their evasion, vigilance, and high toughness make them a reliable early source of commander damage that can pay off later.
 
-While Mirko’s power is still small, focus on cheap value creatures like [[Baleful Strix]], [[Accursed Marauder]], and [[Mulldrifter]] (evoked), which make great early reanimation targets. Also prioritize low-cost, repeatable surveil effects like [[Gossip's Talent]], [[Watcher of Hours]], and [[Search for Azcanta]]—these both fuel your graveyard and grow Mirko.
+While Mirko’s power is still small, focus on cheap value creatures like [[Baleful Strix]], [[Accursed Marauder]], and [[Mulldrifter]] (evoked), which make great early reanimation targets. Also prioritize low-cost, repeatable surveil effects like [[Gossip's Talent]], [[Watcher of Hours]], and [[Search for Azcanta]] — these both fuel your graveyard and grow Mirko.
 
 ---
 
@@ -57,7 +57,7 @@ While Mirko’s power is still small, focus on cheap value creatures like [[Bale
 
 By now, Mirko should be threatening enough to draw removal. That’s fine—Mirko shouldn’t be your only threat.
 
-By turn 6 or 7, you should be reanimating heavy hitters like [[Doom Whisperer]], [[Grave Titan]], and [[Massacre Wurm]]. Force your opponents to make hard decisions with their removal. Keep the pressure on.
+By turn 6 or 7, you should be reanimating heavy hitters like [[Doom Whisperer]], [[Archfiend of Depravity]], and [[Massacre Wurm]]. Force your opponents to make hard decisions with their removal. Keep the pressure on.
 
 If Mirko dies, just recast them—they only cost 3 mana. Or better yet, reanimate **them** with [[Reanimate]], [[Victimize]], or [[Restart Sequence]]!
 
@@ -67,8 +67,8 @@ To get repeated value from your threats, you’ll need to remove their finality 
 
 You have two ways to "unfinalize" creatures:
 
-- **Counter-removal tools** like [[Nesting Grounds]], [[Fain, the Broker]], and [[Hexavus]]  
-- **Flicker effects** like [[Y'shtola Rhul]], [[Conjurer's Closet]], and [[Meneldor, Swift Savior]]
+- **Counter-removal tools** like [[Nesting Grounds]], [[Power Conduit]], and [[Hexavus]]
+- **Flicker effects** like [[Y'shtola Rhul]], [[Identity Thief]], and [[Gossip's Talent]]
 
 Use these to remove finality counters from your strongest reanimated creatures so they can continue looping in and out of the grave.
 
@@ -76,7 +76,7 @@ Use these to remove finality counters from your strongest reanimated creatures s
 
 Mirko will attract removal, and when they come back, their power resets to 1. Enter the **clones**.
 
-Cards like [[Phyrexian Metamorph]], [[Clever Impersonator]], and [[Spark Double]] have 0 power in the graveyard—making them valid targets for reanimation. When they hit the field, they can copy your most terrifying threat already on the battlefield or in the graveyard.
+Cards like [[Spark Double]], [[Clever Impersonator]], and [[Body Double]] have 0 power in the graveyard—making them valid targets for reanimation. When they hit the field, they can copy your most terrifying threat already on the battlefield or in the graveyard.
 
 ---
 
@@ -84,7 +84,7 @@ Cards like [[Phyrexian Metamorph]], [[Clever Impersonator]], and [[Spark Double]
 
 If you’ve made it to the late game with Mirko still around, you likely have a massive flying vampire. Go for the win with commander damage and an overwhelming board.
 
-Even if Mirko’s been dealt with, your field should be frightening enough to close the game with cards like [[Gray Merchant of Asphodel]], [[Twilight Prophet]], or [[Massacre Wurm]]—possibly even in multiples from your clones.
+Even if Mirko’s been dealt with, your field should be frightening enough to close the game with cards like [[Archfiend of Depravity]], [[Twilight Prophet]], or [[Massacre Wurm]] — possibly even in multiples from your clones.
 
 ---
 
@@ -93,3 +93,4 @@ Even if Mirko’s been dealt with, your field should be frightening enough to cl
 Surveillance State is a flexible reanimator deck that rewards careful sequencing and patient setup. Whether you’re filling your graveyard with surveil effects, looping creatures back to the battlefield, or growing Mirko into a towering, evasive threat, every turn offers interesting decisions.
 
 Between powerful finishers, clever counter-removal tools, and the extra end steps Y'shtola provides, you’ll find no shortage of ways to overwhelm your opponents. If you enjoy a blend of graveyard value, combo potential, and Voltron commander damage, this deck offers a satisfying and sinister path to victory.
+
