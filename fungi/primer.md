@@ -48,6 +48,16 @@ Even if [[The Mycotyrant]] dies, the colony barely notices. Recast it and it imm
 
 The Mycotyrant starts small, but it scales with your cultivation. And once you are descending consistently, it becomes very difficult to meaningfully prune.
 
+## Additions
+
+New cards I've introduced to the deck since its initial posting.
+
+- [[Sinister Gnarlbark]] — **Fungi-fueled card draw**  
+  This creature turns excess Fungi into steady card advantage. With [[The Mycotyrant]] producing new spores every end step, blighting a single 1/1 each turn for a card is an easy exchange.
+
+- [[Soul Enervation]] — **Solid permanent-based removal**  
+  Permanent-based interaction is necessary for our **descend/mill** based deck, but with Flash this is especially valuable. Soul Enervation removes problematic creatures and sticks around to drain the table's life whenever a creature leaves our graveyard.
+
 ---
 
 # The Gameplan
